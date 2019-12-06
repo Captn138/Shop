@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<catalog>
+    <product>
+        <category>DVD</category>
+        <name>Les Visiteurs</name>
+        <price>9.27</price>
+        <id>0001</id>
+        <stock>10</stock>
+        <img></img>
+        <cast>Christian Clavier, Jean Reno, Marie-Anne Chazel, Valérie Le Mercier</cast>
+        <genre>Comedy, Family</genre>
+        <duration>107</duration>
+    </product>
+    <product>
+        <category>DVD</category>
+        <name>OSS 117 : Le Caire, Nid d'Espions</name>
+        <price>14.99</price>
+        <id>0002</id>
+        <stock>10</stock>
+        <img></img>
+        <cast>Jean Dujardin, Bérénice Bejo, Aure Atika, Philippe Lefebvre</cast>
+        <genre>Comedy, Family</genre>
+        <duration>99</duration>
+    </product>
+    <product>
+        <category>DVD</category>
+        <name>Astérix et Obélix : Mission Cléopâtre</name>
+        <price>8.98</price>
+        <id>0003</id>
+        <stock>10</stock>
+        <img></img>
+        <cast>Christian Clavier, Monica Bellucci, Gérard Depardieu, Jamel Debbouze, Alain Chabat</cast>
+        <genre>Comedy, Family</genre>
+        <duration>107</duration>
+    </product>
+    <product>
+        <category>DVD</category>
+        <name>The Good, The Bad And The Ugly</name>
+        <price>13</price>
+        <id>0004</id>
+        <stock>10</stock>
+        <img></img>
+        <cast>Clint Eastwood, Lee Van Cleef, Eli Wallach</cast>
+        <genre>Action</genre>
+        <duration>161</duration>
+    </product>
+    <product>
+        <category>DVD</category>
+        <name>Star Wars Episode VI : The Return Of The Jedi</name>
+        <price>9.99</price>
+        <id>0005</id>
+        <stock>10</stock>
+        <img></img>
+        <cast>Mark Hamill, Harrisson Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels</cast>
+        <genre>Action, Sci-Fi</genre>
+        <duration>135</duration>
+    </product>
+    <product>
+        <category>DVD</category>
+        <name>The Exorcist</name>
+        <price>10</price>
+        <id>0006</id>
+        <stock>10</stock>
+        <img></img>
+        <cast>Ellen Burstyn, Linda Blair, Jason Miller, Max Von Sydow</cast>
+        <genre>Horror</genre>
+        <duration>133</duration>
+    </product>
+    <product>
+        <category>DVD</category>
+        <name>GoldenEye</name>
+        <price></price>
+        <id>0007</id>
+        <stock>10</stock>
+        <img></img>
+        <cast>Pierce Brosnan, Sean Bean, Isabella Scorupco, Famke Jannsen, Gottfried John, Judi Dench</cast>
+        <genre>Action</genre>
+        <duration>130</duration>
+    </product>
+    <product>
+        <category>DVD</category>
+        <name>Titanic</name>
+        <price>10</price>
+        <id>0008</id>
+        <stock>10</stock>
+        <img></img>
+        <cast>Leonardo Dicaprio, Kate Winslet</cast>
+        <genre>Drama</genre>
+        <duration>194</duration>
+    </product>
+    <product>
+        <category>DVD</category>
+        <name>Frozen</name>
+        <price>12.79</price>
+        <id>0009</id>
+        <stock>10</stock>
+        <img></img>
+        <cast>Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad, Santino Fontana</cast>
+        <genre>Animation, Family</genre>
+        <duration>103</duration>
+    </product>
+    <product>
+        <category></category>
+        <name></name>
+        <price></price>
+        <id></id>
+        <stock></stock>
+        <img></img>
+    </product>
+    <product>
+        <category></category>
+        <name></name>
+        <price></price>
+        <id></id>
+        <stock></stock>
+        <img></img>
+    </product>
+    <product>
+        <category></category>
+        <name></name>
+        <price></price>
+        <id></id>
+        <stock></stock>
+        <img></img>
+    </product>
+    <product>
+        <category></category>
+        <name></name>
+        <price></price>
+        <id></id>
+        <stock></stock>
+        <img></img>
+    </product>
+    <product>
+        <category></category>
+        <name></name>
+        <price></price>
+        <id></id>
+        <stock></stock>
+        <img></img>
+    </product>
+    <product>
+        <category></category>
+        <name></name>
+        <price></price>
+        <id></id>
+        <stock></stock>
+        <img></img>
+    </product>
+</catalog>

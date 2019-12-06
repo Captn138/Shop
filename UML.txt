@@ -1,0 +1,43 @@
+GUI
+
+Product
+	-category:String
+	-name:String
+	-price:double
+	-id:String
+	-stock:int
+	-img:String
+
+DVD extends Product
+	-cast:String
+	-genre:String
+	-duration:int
+
+Book extends Product
+	-author:String
+	-language:Enum
+	-pages:int
+
+Game extends Product
+	-genre:String
+	-platform:Enum
+	-year:int
+
+Customer
+	-id:String
+	-lname:String
+	-fname:String
+	-adress:String
+
+Transaction
+	-clientid:String
+	-productid:String
+	-nbproduct:int
+	-datetime:DateTime
+
+Store
+	-name:String
+	-logo:String
+	-clientlist:String
+	-productlist:String
+	-transactionslist:String
