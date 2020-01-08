@@ -8,31 +8,23 @@ public class Product{
     private int stock;
     private String img;
 
-    public String category(){
-        return category;
-    }
+    public String category(){return category;}
 
-    public String name(){
-        return name;
-    }
+    public String name(){return name;}
 
-    public String id(){
-        return id;
-    }
+    public String id(){return id;}
 
-    public double price(){
-        return price;
-    }
+    public double price(){return price;}
 
-    public int stock(){
-        return stock;
-    }
+    public int stock(){return stock;}
 
-    public String img(){
-        return img;
-    }
+    public String img(){return img;}
 
-    public Product(){
-
+    public Product(String name, String id, double price, int stock, String img){
+        this.name = name;
+        this.id = id;
+        this.price = price;
+        this.stock = stock;
+        this.img = img;
     }
 }

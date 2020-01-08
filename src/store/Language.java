@@ -5,9 +5,7 @@ public enum Language{
 
     private String languagename;
 
-    public String toString(){
-        return languagename;
-    }
+    public String toString(){return languagename;}
 
     Language(String languagename){
         this.languagename = languagename;

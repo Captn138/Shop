@@ -6,23 +6,19 @@ public class DVD extends Product{
     private String genre;
     private int duration;
 
-    public String category(){
-        return category;
-    }
+    public String category(){return category;}
 
-    public String cast(){
-        return cast;
-    }
+    public String cast(){return cast;}
 
-    public String genre(){
-        return genre;
-    }
+    public String genre(){return genre;}
 
-    public int duration(){
-        return duration;
-    }
+    public int duration(){return duration;}
 
-    public DVD(){
+    public DVD(String name, String id, double price, int stock, String img, String cast, String genre, int duration){
+        super(name, id, price, stock, img);
         category = "DVD";
+        this.cast = cast;
+        this.genre = genre;
+        this.duration = duration;
     }
 }

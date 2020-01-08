@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <DVD id="0001">
+    <name>Les Visiteurs</name>
+    <price>9.27</price>
+    <stock>10</stock>
+    <img></img>
+    <cast>Christian Clavier, Jean Reno, Marie-Anne Chazel, Valérie Le Mercier</cast>
+    <genre>Comedy, Family</genre>
+    <duration>107</duration>
+  </DVD>
+  <DVD id="0002">
+    <name>OSS 117 : Le Caire, Nid d'Espions</name>
+    <price>14.99</price>
+    <stock>10</stock>
+    <img></img>
+    <cast>Jean Dujardin, Bérénice Bejo, Aure Atika, Philippe Lefebvre</cast>
+    <genre>Comedy, Family</genre>
+    <duration>99</duration>
+  </DVD>
+</root>

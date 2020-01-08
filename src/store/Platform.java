@@ -5,9 +5,7 @@ public enum Platform{
     
     private String consolename;
 
-    public String toString(){
-        return consolename;
-    }
+    public String toString(){return consolename;}
 
     private Platform(String consolename) {
         this.consolename = consolename;

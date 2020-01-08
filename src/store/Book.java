@@ -6,23 +6,19 @@ public class Book extends Product{
     private Language lang;
     private int pages;
 
-    public String category(){
-        return category;
-    }
+    public String category(){return category;}
 
-    public String author(){
-        return author;
-    }
+    public String author(){return author;}
 
-    public Language lang(){
-        return lang;
-    }
+    public Language lang(){return lang;}
 
-    public int pages(){
-        return pages;
-    }
+    public int pages(){return pages;}
 
-    public Book(){
+    public Book(String name, String id, double price, int stock, String img, String author, Language lang, int pages){
+        super(name, id, price, stock, img);
         category = "Book";
+        this.author = author;
+        this.lang = lang;
+        this.pages = pages;
     }
 }
